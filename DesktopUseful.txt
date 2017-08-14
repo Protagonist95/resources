@@ -1,1 +1,1 @@
-idTeatmikERIALAStr = dlg.GetStrClmnValuesOfSelectedRows(fTeatmikudSelectMembersKoodJuggler.TableColumns.ID); --- get coma separated values from searchdialog
+drag and drop
